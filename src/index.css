@@ -37,7 +37,6 @@ a:hover{
 
 
 
-
 /* CARD */
 
 .favButton{
@@ -93,7 +92,7 @@ footer {
   padding: 2rem;
   position: relative;
   bottom: 0;
-  width: 100VW;
+  width: 100vw;
   height: 20px;
   margin-top: 2rem;
   background-color: tomato;
@@ -158,7 +157,7 @@ tr:nth-child(even) {
   padding: 2rem;
   position: relative;
   bottom: 0;
-  width: 100VW;
+  width: 100vw;
   height: 20px;
   margin-top: 2rem;
   background-color: blueviolet;
@@ -171,12 +170,13 @@ tr:nth-child(even) {
 
 
 
+
 .dark{
   background-color: #12121296;
-  color: white;
+  color: whitesmoke;
 }
 .dark > a {
-  color: white;
+  color: whitesmoke;
 }
 
 
